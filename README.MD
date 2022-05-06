@@ -39,10 +39,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/FeedGetFormIndex.png?token=GHSAT0AAAAAABTT77RTMGJV4FLUITKS7I7OYTVTFVA)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Carlos-E-Souza`, `FeedGet-NLW`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -89,11 +85,3 @@ To get a local copy up and running follow these simple steps.
     npm run dev
     ```
     <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Project Link: [https://github.com/Carlos-E-Souza/FeedGet-NLW](https://github.com/Carlos-E-Souza/FeedGet-NLW)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
