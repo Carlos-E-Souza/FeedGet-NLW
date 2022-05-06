@@ -40,7 +40,7 @@
 ## About The Project
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/FeedGetFormIndex.png?token=GHSAT0AAAAAABTT77RTMGJV4FLUITKS7I7OYTVTFVA" alt="Project Image" width="150" height="150">
+<img src="https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/FeedGetFormIndex.png?token=GHSAT0AAAAAABTT77RTMGJV4FLUITKS7I7OYTVTFVA" alt="Project Image" width="200" height="200">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
