@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/logo.png?token=GHSAT0AAAAAABTT77RSXW5YLEDHKIMV2M4CYTVSJXQ" alt="Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/logo.png?token=GHSAT0AAAAAABTT77RSJLTFSY53JL2RTVIQYTVUIEQ" alt="Logo" width="80" height="80">
 
 <h3 align="center">FeedGet</h3>
 
