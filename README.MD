@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="https://drive.google.com/file/d/1NdRytXi88K18ruWzlVVXGb9YcAIxmtcl/view?usp=sharing" alt="Logo" width="80" height="80">
+<img src="https://i.postimg.cc/sx6jXM2d/logo.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">FeedGet</h3>
 
@@ -40,7 +40,7 @@
 ## About The Project
 
 <div align="center">
-<img src="https://drive.google.com/file/d/18CyMv79ZXJg25l64jF2bBulP_4Cesn7E/view?usp=sharing" alt="Project Image" width="250" height="250">
+<img src="https://i.postimg.cc/C5LMSGSs/Feed-Get-Form-Index.png" alt="Project Image" width="250" height="250">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
