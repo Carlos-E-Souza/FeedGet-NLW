@@ -11,7 +11,7 @@
     The project idea is a widget that you can add to any site so you can receive feedbacks with a screenshot to improve the feedback.
     <br />
     <br />
-    <a href="https://feed-4gti1vlku-carlos-e-souza.vercel.app/">Check it out here</a>
+    <a href="https://feed-get-carlos-e-souza.vercel.app/">Check it out here</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
