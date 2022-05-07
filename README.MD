@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/logo.png?token=GHSAT0AAAAAABTT77RSJLTFSY53JL2RTVIQYTVUIEQ" alt="Logo" width="80" height="80">
+<img src="https://drive.google.com/file/d/1NdRytXi88K18ruWzlVVXGb9YcAIxmtcl/view?usp=sharing" alt="Logo" width="80" height="80">
 
 <h3 align="center">FeedGet</h3>
 
@@ -40,7 +40,7 @@
 ## About The Project
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Carlos-E-Souza/Images/master/FeedGetFormIndex.png?token=GHSAT0AAAAAABTT77RTMGJV4FLUITKS7I7OYTVTFVA" alt="Project Image" width="200" height="200">
+<img src="https://drive.google.com/file/d/18CyMv79ZXJg25l64jF2bBulP_4Cesn7E/view?usp=sharing" alt="Project Image" width="250" height="250">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
