@@ -10,6 +10,8 @@ app.use(express.json())
 
 app.use(feedbackRoute)
 
-app.listen(process.env.PORT || 9000, () => {
+const PORT = process.env.PORT || 9000
+
+app.listen(PORT, () => {
     console.log("Server Running!")
 })
